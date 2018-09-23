@@ -1,0 +1,50 @@
+/* style.css */
+
+body {
+	background-image: linear-gradient(to top left,#87FFDF,#B5FFEB);
+	margin-left:20px;
+	font-family:serif,"Times New Roman",Times;
+	color:#110044;
+}
+
+h1 {
+	text-align:center;
+	color:#17005E;
+	font-size:72px;
+	margin-left:15%;
+	margin-right:15%;
+	border-bottom-style:solid;
+}
+
+h2 {
+	margin-left: 1%;
+}
+
+h3 {
+	margin-left:2%;
+	margin-top:-5px;
+}
+
+h4 {
+	margin-left:3%;
+	margin-top:-5px;
+}
+
+ul {
+	margin-left:3%;
+	margin-top:-10px;
+}
+
+div {
+	text-align:center;
+}
+
+p.tight {
+	margin-left:4%;
+	margin-top:-10px;
+}
+
+.index {
+	font-size:20px;
+	text-align:center;
+}
