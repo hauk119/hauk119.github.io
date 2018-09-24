@@ -11,4 +11,6 @@ files:
 
 I asked Ani Hopkins for help fixing my mistakes in setting up GitHub, and Maddy Duke random questions about what methods she used for things just to quell anxiety
 
-Approximate hours spent: ~10? They weren't all very productive though
+Approximate hours spent: ~15? They weren't all very productive though
+
+As a sidenote: bio.html has a strange background color effect caused by my use of a gradient background. I couldn't figure out how to fix it.
